@@ -6,7 +6,7 @@ Python | SQL | Tableau
 - [Background](#background)
 - [Executive Summary](#executive-summary)
 - [Methodology](#methodology)
-- [Data Analysis](#data-analysis)
+- [Data Analysis](#general-data-analysis)
 - [Recommendations](#recommendations)
 
 
