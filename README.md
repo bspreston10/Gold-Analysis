@@ -23,3 +23,23 @@ This analysis examines the impact of Federal Reserve rate changes on gold (GC=F)
 - Gold's performance differed during specific monetary actions: the average daily return was 0.07% during rate cuts and 0.04% during rate hikes.
 - An analysis of gold's beta (GC=F) highlights its variability over time, reflecting its defensive characteristics. Notable movements include a dip to -0.552 in 2007 during the early stages of the financial crisis, showing a negative correlation with the market, and a peak of 0.822 in 2010 during the post-crisis recovery. From 2018–2023, beta exhibited moderate fluctuations, generally remaining below 1, reinforcing gold's role as a risk diversifier with limited sensitivity to broader market trends during volatile periods.
 These findings underscore gold’s unique behavior as a safe-haven asset, providing stability and diversification during periods of economic uncertainty and monetary policy shifts.
+
+# Methodology
+For this project, I collected historical GC=F (COMEX Gold Futures) and SPY (S&P 500 ETF) data using the yfinance API, covering the period from January 1, 2000, to January 1, 2024. This extended timeframe was chosen to capture a variety of global events, including recessions, pandemics, and wars, ensuring a robust analysis of the effects of Federal Reserve rate hikes and cuts.
+
+To analyze volatility and market correlation, I used SQL to extract key financial metrics such as beta and RSI from the OHLCV (Open, High, Low, Close, Volume) data. This provided deeper insights into the relationship between SPY and GC=F across varying market conditions.
+
+To enable both long-term and short-term analysis, I developed an interactive Tableau dashboard that allows users to explore GC=F activity at different time granularities—yearly, quarterly, monthly, or daily. This visualization helps highlight trends, correlations, and shifts in gold’s behavior over time.
+
+# General Data Analysis
+Here we will analyze GC=F (gold futures) and SPY (S&P 500) behavior, particularly in response to Fed rate hikes/cuts and global events.
+
+## Impact of Fed Rate Cuts/Hikes
+<img width="361" alt="Screenshot 2024-12-18 at 11 17 46 AM" src="https://github.com/user-attachments/assets/8a78269d-6caa-4fb4-a90a-93eecfc5fb76" />
+- On the day of a Fed rate change, gold’s daily return increased 3.6%, but during the 7-day event window, it surged by 132% relative to its average.
+- Conversely, on the day of a Fed rate change SPY's daily return increased 282% from it's baseline average return, but during the 7-day event window, it declined 40%
+
+<img width="609" alt="Screenshot 2024-12-18 at 11 20 33 AM" src="https://github.com/user-attachments/assets/610bac87-50ae-4f6b-b7ac-d5ea110eb69e" />
+Visually this can be seen looking at the annual daily average returns for gold, where we see a sharp increase in GC=F daily returns starting in 2007, likely due to investor flight from the 2008 recession.
+
+
