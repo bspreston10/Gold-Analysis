@@ -5,6 +5,9 @@ Python | SQL | Tableau
 ## Table of Contents
 - [Background](#background)
 - [Executive Summary](#executive-summary)
+- [Methodology](methodology)
+- [Data Analysis](data-analysis)
+- [Recommendations](recommendations)
 
 
 ## Background
