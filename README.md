@@ -1,4 +1,4 @@
-# Gold-Analysis
+# Gold vs. Equities: Analyzing Safe-Haven Behavior During Economic Uncertainty and Fed Rate Decisions
 Python | SQL | Tableau
 
 # Shifting Fortunes: Unpacking the Behavior of GC=F as a Safe Haven Asset
