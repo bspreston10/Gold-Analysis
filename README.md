@@ -35,7 +35,8 @@ To enable both long-term and short-term analysis, I developed an interactive Tab
 Here we will analyze GC=F (gold futures) and SPY (S&P 500) behavior, particularly in response to Fed rate hikes/cuts and global events.
 
 ## Impact of Fed Rate Cuts/Hikes
-<img width="361" alt="Screenshot 2024-12-18 at 11 17 46 AM" src="https://github.com/user-attachments/assets/8a78269d-6caa-4fb4-a90a-93eecfc5fb76" />
+<img width="500" alt="Screenshot 2024-12-18 at 11 17 46 AM" src="https://github.com/user-attachments/assets/8a78269d-6caa-4fb4-a90a-93eecfc5fb76" />
+
 Here we see a bar graph showing average daily returns for events (Fed rate cut/hike) event window (7 days before/after event) and non-event. The orange bars represent GC=F returns, while the purple line represents SPY's returns.
 1. **GC=F Performance**
   - During the event gold's daily return increased 3.6% to 0.045%
@@ -49,7 +50,7 @@ This graph provides evidence supporting the claim that gold is treated as a safe
 On the other hand, the SPY’s performance reveals a contrasting dynamic. Although SPY’s daily return increased sharply by 282% during the event, this could reflect a temporary recovery or a broader attempt to stabilize market conditions. However, the 40% decrease in SPY’s return during the event window demonstrates that investor confidence in riskier assets remained fragile. This decline supports the notion that risk-off sentiment persisted beyond the event itself, leading investors to scale back their exposure to equities in favor of safer investments. Together, these patterns highlight the diverging responses of gold and SPY to market stress, underscoring gold’s role as a reliable safe-haven asset in times of crisis.
 
 ## GC=F YTY Growth
-<img width="521" alt="Screenshot 2024-12-18 at 11 52 32 AM" src="https://github.com/user-attachments/assets/5b9b1b1c-94cf-47d2-8b66-208a1635a71e" />
+<img width="500" alt="Screenshot 2024-12-18 at 11 52 32 AM" src="https://github.com/user-attachments/assets/5b9b1b1c-94cf-47d2-8b66-208a1635a71e" />
 
 The YtY growth rate for GC=F (COMEX Gold Futures) shows notable peaks and declines, reflecting gold's role as a safe-haven asset during periods of economic uncertainty:
 
@@ -63,14 +64,14 @@ Gold’s Stability vs SPY’s Volatility:
 Gold (GC=F) consistently shows a more stable RSI range (45–58), reflecting its role as a safe-haven asset with limited price momentum fluctuations.
 In contrast, SPY exhibits higher RSI variability, with peaks above 55–60 signaling stronger bullish momentum and drops near 45 reflecting market downturns.
 Beta and RSI Alignment During Crises:
-<img width="817" alt="Screenshot 2024-12-18 at 12 40 45 PM" src="https://github.com/user-attachments/assets/4dcb2877-e3b0-4252-abbd-b1ba700fd521" />
+<img width="500" alt="Screenshot 2024-12-18 at 12 40 45 PM" src="https://github.com/user-attachments/assets/4dcb2877-e3b0-4252-abbd-b1ba700fd521" />
 
 
 Gold’s negative or low beta (e.g., -0.4025 in 2017) indicates its tendency to move independently or inversely to the market during periods of uncertainty.
 Elevated gold RSI values (above 55) during times of financial distress (e.g., 2008 crisis and COVID-19 pandemic) suggest increased investor demand for gold as a hedge.
 SPY’s higher beta and volatile RSI movements confirm its sensitivity to market sentiment and economic shifts.
 Behavior During Recovery Periods:
-<img width="817" alt="Screenshot 2024-12-18 at 12 51 04 PM" src="https://github.com/user-attachments/assets/30ad455d-0af1-418f-9609-cbe82a9547a6" />
+<img width="500" alt="Screenshot 2024-12-18 at 12 51 04 PM" src="https://github.com/user-attachments/assets/30ad455d-0af1-418f-9609-cbe82a9547a6" />
 
 
 During post-crisis recoveries (e.g., 2011 peak beta at 0.4142), gold’s correlation with the market temporarily increases as investors re-enter riskier assets.
