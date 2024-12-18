@@ -8,6 +8,7 @@ Python | SQL | Tableau
 - [Methodology](#methodology)
 - [Data Analysis](#general-data-analysis)
 - [Recommendations](#recommendations)
+- [Tableau Dashboard](#tableau-dashboard)
 
 
 ## Background
@@ -122,5 +123,10 @@ Shift toward SPY when its RSI rises above 55, signaling a recovery.
 **Short-Term:** Use gold during event windows (rate decisions, crises) to hedge against market volatility and capitalize on its rapid return increases.
 **Long-Term:** Maintain a strategic allocation to gold to diversify risk, given its historically stable returns and low correlation with equities. Reallocate to SPY during periods of economic recovery or sustained bullish sentiment.
 
+# Tableau Dashboard
+
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/71065f38-228e-4f4d-b015-19621fdde939)
+
+**Dashboard Link**: https://public.tableau.com/app/profile/bennett.preston/viz/gold_project/Dashboard1
 
 
