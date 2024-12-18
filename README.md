@@ -4,7 +4,7 @@ Python | SQL | Tableau
 # Shifting Fortunes: Unpacking the Behavior of GC=F as a Safe Haven Asset
 ## Table of Contents
 - [Background](#background)
-- [Executive Summary](#executivesummary)
+- [Executive Summary](#executive-summary)
 
 
 ## Background
