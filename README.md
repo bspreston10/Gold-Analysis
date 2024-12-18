@@ -64,6 +64,7 @@ Gold’s Stability vs SPY’s Volatility:
 Gold (GC=F) consistently shows a more stable RSI range (45–58), reflecting its role as a safe-haven asset with limited price momentum fluctuations.
 In contrast, SPY exhibits higher RSI variability, with peaks above 55–60 signaling stronger bullish momentum and drops near 45 reflecting market downturns.
 Beta and RSI Alignment During Crises:
+
 <img width="500" alt="Screenshot 2024-12-18 at 12 40 45 PM" src="https://github.com/user-attachments/assets/4dcb2877-e3b0-4252-abbd-b1ba700fd521" />
 
 
@@ -71,6 +72,7 @@ Gold’s negative or low beta (e.g., -0.4025 in 2017) indicates its tendency to 
 Elevated gold RSI values (above 55) during times of financial distress (e.g., 2008 crisis and COVID-19 pandemic) suggest increased investor demand for gold as a hedge.
 SPY’s higher beta and volatile RSI movements confirm its sensitivity to market sentiment and economic shifts.
 Behavior During Recovery Periods:
+
 <img width="500" alt="Screenshot 2024-12-18 at 12 51 04 PM" src="https://github.com/user-attachments/assets/30ad455d-0af1-418f-9609-cbe82a9547a6" />
 
 
