@@ -125,7 +125,8 @@ Shift toward SPY when its RSI rises above 55, signaling a recovery.
 
 # Tableau Dashboard
 
-![Dashboard 1 (1)](https://github.com/user-attachments/assets/71065f38-228e-4f4d-b015-19621fdde939)
+![Dashboard 1 (2)](https://github.com/user-attachments/assets/edb2c382-6b0b-4964-9ba8-cc1bbecfc6b5)
+
 
 **Dashboard Link**: https://public.tableau.com/app/profile/bennett.preston/viz/gold_project/Dashboard1
 
